@@ -1,0 +1,171 @@
+movie_id,title,genres,director,cast,release_year,description
+1,Inception,"Sci-Fi, Thriller",Christopher Nolan,"Leonardo DiCaprio, Tom Hardy",2010,A thief steals secrets through dream invasion.
+2,Titanic,"Romance, Drama",James Cameron,"Leonardo DiCaprio, Kate Winslet",1997,A tragic love story on a doomed ship.
+3,Interstellar,"Sci-Fi, Drama",Christopher Nolan,"Matthew McConaughey, Anne Hathaway",2014,A team travels through a wormhole to save Earth.
+4,The Dark Knight,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger",2008,Batman faces the chaos created by the Joker.
+5,The Matrix,"Sci-Fi, Action",The Wachowskis,"Keanu Reeves, Laurence Fishburne",1999,A hacker learns about a simulated reality.
+6,Avatar,"Action, Sci-Fi",James Cameron,"Sam Worthington, Zoe Saldana",2009,A soldier bonds with natives on another planet.
+7,The Avengers,"Action, Fantasy",Joss Whedon,"Robert Downey Jr., Chris Evans",2012,Heroes team up to save the Earth.
+8,Joker,"Thriller, Drama",Todd Phillips,"Joaquin Phoenix, Robert De Niro",2019,A mentally ill loner becomes the Joker.
+9,Forrest Gump,"Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright",1994,A simple man’s life intersects with history.
+10,Gladiator,"Action, Drama",Ridley Scott,"Russell Crowe, Joaquin Phoenix",2000,A Roman general becomes a gladiator.
+11,Iron Man,"Action, Sci-Fi",Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow",2008,A billionaire builds a high-tech suit to fight.
+12,The Lion King,"Animation, Drama",Roger Allers,"Matthew Broderick, Jeremy Irons",1994,A young lion prince returns to claim his throne.
+13,The Godfather,"Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino",1972,The aging patriarch hands power to his son.
+14,The Shawshank Redemption,Drama,Frank Darabont,"Tim Robbins, Morgan Freeman",1994,A man imprisoned for a crime he didn’t commit.
+15,Spider-Man: No Way Home,"Action, Fantasy",Jon Watts,"Tom Holland, Zendaya",2021,Spider-Man deals with multiverse chaos.
+16,Doctor Strange,"Action, Fantasy",Scott Derrickson,"Benedict Cumberbatch, Rachel McAdams",2016,A surgeon turns into a master of mystic arts.
+17,Deadpool,"Action, Comedy",Tim Miller,"Ryan Reynolds, Morena Baccarin",2016,A mercenary becomes an anti-hero.
+18,The Revenant,"Adventure, Drama",Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy",2015,A frontiersman survives to get revenge.
+19,Dune,"Sci-Fi, Adventure",Denis Villeneuve,"Timothée Chalamet, Zendaya",2021,A noble family faces war on a desert planet.
+20,Black Panther,"Action, Sci-Fi",Ryan Coogler,"Chadwick Boseman, Michael B. Jordan",2018,A king defends his technologically advanced land.
+21,The Hunger Games,"Action, Sci-Fi",Gary Ross,"Jennifer Lawrence, Josh Hutcherson",2012,A girl fights to survive a deadly contest.
+22,Frozen,"Animation, Family",Chris Buck,"Idina Menzel, Kristen Bell",2013,A princess learns to control her powers.
+23,The Fault in Our Stars,"Romance, Drama",Josh Boone,"Shailene Woodley, Ansel Elgort",2014,Two teens with cancer fall in love.
+24,Tenet,"Sci-Fi, Action",Christopher Nolan,"John David Washington, Robert Pattinson",2020,A man manipulates time to prevent global war.
+25,Top Gun: Maverick,"Action, Drama",Joseph Kosinski,"Tom Cruise, Miles Teller",2022,A veteran pilot returns to train new recruits.
+26,The Social Network,"Drama, Biography",David Fincher,"Jesse Eisenberg, Andrew Garfield",2010,The story of Facebook's creation and its fallout.
+27,The Pursuit of Happyness,"Drama, Biography",Gabriele Muccino,"Will Smith, Jaden Smith",2006,A homeless salesman fights for a better life.
+28,Gravity,"Sci-Fi, Thriller",Alfonso Cuarón,"Sandra Bullock, George Clooney",2013,Astronauts struggle to survive in space.
+29,Knives Out,"Mystery, Crime",Rian Johnson,"Daniel Craig, Ana de Armas",2019,A detective investigates a wealthy man's death.
+30,The Martian,"Sci-Fi, Adventure",Ridley Scott,"Matt Damon, Jessica Chastain",2015,A stranded astronaut survives on Mars.
+31,Ready Player One,"Sci-Fi, Action",Steven Spielberg,"Tye Sheridan, Olivia Cooke",2018,A boy plays a virtual game to save the world.
+32,Pacific Rim,"Action, Sci-Fi",Guillermo del Toro,"Charlie Hunnam, Idris Elba",2013,Robots battle monsters from another dimension.
+33,Logan,"Action, Drama",James Mangold,"Hugh Jackman, Patrick Stewart",2017,An aging Wolverine protects a young mutant girl.
+34,Captain America: Civil War,"Action, Sci-Fi",Anthony & Joe Russo,"Chris Evans, Robert Downey Jr.",2016,Superheroes clash over accountability.
+35,The Prestige,"Drama, Mystery",Christopher Nolan,"Hugh Jackman, Christian Bale",2006,Rival magicians battle in Victorian London.
+36,The Curious Case of Benjamin Button,"Drama, Fantasy",David Fincher,"Brad Pitt, Cate Blanchett",2008,A man ages in reverse.
+37,Transformers,"Action, Sci-Fi",Michael Bay,"Shia LaBeouf, Megan Fox",2007,Robots disguise as cars and fight for Earth.
+38,The Conjuring,"Horror, Mystery",James Wan,"Vera Farmiga, Patrick Wilson",2013,Paranormal investigators help a haunted family.
+39,A Quiet Place,"Horror, Thriller",John Krasinski,"Emily Blunt, John Krasinski",2018,A family survives in silence to avoid monsters.
+40,It,"Horror, Thriller",Andy Muschietti,"Bill Skarsgård, Finn Wolfhard",2017,Children fight a shape-shifting clown.
+41,Arrival,"Sci-Fi, Drama",Denis Villeneuve,"Amy Adams, Jeremy Renner",2016,A linguist deciphers alien language to save mankind.
+42,The Secret Life of Pets,"Animation, Comedy",Chris Renaud,"Louis C.K., Eric Stonestreet",2016,Pets explore life when their owners leave.
+43,Moana,"Animation, Adventure","Ron Clements, John Musker","Auliʻi Cravalho, Dwayne Johnson",2016,A girl sails to save her island with help of a demigod.
+44,Zootopia,"Animation, Comedy",Byron Howard,"Ginnifer Goodwin, Jason Bateman",2016,A rabbit cop solves a major conspiracy.
+45,Luca,"Animation, Adventure",Enrico Casarosa,"Jacob Tremblay, Jack Dylan Grazer",2021,A sea monster experiences a human summer.
+46,Encanto,"Animation, Fantasy",Jared Bush,"Stephanie Beatriz, John Leguizamo",2021,A magical family faces the loss of their powers.
+47,Turning Red,"Animation, Comedy",Domee Shi,"Rosalie Chiang, Sandra Oh",2022,A girl transforms into a red panda when stressed.
+48,Lightyear,"Animation, Sci-Fi",Angus MacLane,"Chris Evans, Keke Palmer",2022,The origin story of Buzz Lightyear.
+49,Minions,"Animation, Comedy",Kyle Balda,"Pierre Coffin, Sandra Bullock",2015,Minions serve villains throughout history.
+50,Despicable Me,"Animation, Comedy",Pierre Coffin,"Steve Carell, Miranda Cosgrove",2010,A supervillain adopts three girls and changes.
+51,3 Idiots,"Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Kareena Kapoor",2009,Three friends explore the meaning of real education.
+52,Dangal,"Biography, Drama",Nitesh Tiwari,"Aamir Khan, Fatima Sana Shaikh",2016,A father trains his daughters to become wrestlers.
+53,PK,"Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Anushka Sharma",2014,An alien questions religious dogmas on Earth.
+54,Taare Zameen Par,"Drama, Family",Aamir Khan,"Darsheel Safary, Aamir Khan",2007,A teacher helps a dyslexic child express himself.
+55,Bajrangi Bhaijaan,"Drama, Adventure",Kabir Khan,"Salman Khan, Harshaali Malhotra",2015,A man helps a mute Pakistani girl return home.
+56,Chak De! India,"Sports, Drama",Shimit Amin,"Shah Rukh Khan, Vidya Malvade",2007,A disgraced hockey player coaches a women’s team.
+57,Queen,"Comedy, Drama",Vikas Bahl,"Kangana Ranaut, Rajkummar Rao",2013,A woman finds herself on a solo honeymoon trip.
+58,Barfi!,"Comedy, Drama",Anurag Basu,"Ranbir Kapoor, Priyanka Chopra",2012,A deaf-mute man falls in love in a unique journey.
+59,Zindagi Na Milegi Dobara,"Adventure, Drama",Zoya Akhtar,"Hrithik Roshan, Farhan Akhtar",2011,Three friends go on a life-changing road trip.
+60,Yeh Jawaani Hai Deewani,"Romance, Drama",Ayan Mukerji,"Ranbir Kapoor, Deepika Padukone",2013,A free-spirited guy meets his old school crush.
+61,Gully Boy,"Drama, Music",Zoya Akhtar,"Ranveer Singh, Alia Bhatt",2019,A rapper from Mumbai slums fights for his dreams.
+62,Kal Ho Naa Ho,"Romance, Drama",Nikkhil Advani,"Shah Rukh Khan, Preity Zinta",2003,A terminally ill man spreads love and joy.
+63,Dilwale Dulhania Le Jayenge,"Romance, Drama",Aditya Chopra,"Shah Rukh Khan, Kajol",1995,A young couple falls in love against traditional odds.
+64,Kabir Singh,"Drama, Romance",Sandeep Reddy Vanga,"Shahid Kapoor, Kiara Advani",2019,A brilliant surgeon turns self-destructive after breakup.
+65,War,"Action, Thriller",Siddharth Anand,"Hrithik Roshan, Tiger Shroff",2019,Two elite soldiers clash in a thrilling chase.
+66,Shershaah,"War, Biography",Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",2021,Story of Kargil hero Captain Vikram Batra.
+67,Raazi,"Thriller, Drama",Meghna Gulzar,"Alia Bhatt, Vicky Kaushal",2018,A Kashmiri girl spies for India in Pakistan.
+68,Drishyam,"Thriller, Crime",Nishikant Kamat,"Ajay Devgn, Tabu",2015,A man crafts a clever alibi to save his family.
+69,Piku,"Comedy, Drama",Shoojit Sircar,"Amitabh Bachchan, Deepika Padukone",2015,A daughter juggles life with her cranky father.
+70,Rockstar,"Musical, Drama",Imtiaz Ali,"Ranbir Kapoor, Nargis Fakhri",2011,A young man transforms into a troubled rock star.
+71,Haider,"Drama, Thriller",Vishal Bhardwaj,"Shahid Kapoor, Tabu",2014,Hamlet retold in insurgency-hit Kashmir.
+72,Andhadhun,"Thriller, Mystery",Sriram Raghavan,"Ayushmann Khurrana, Tabu",2018,A blind pianist gets caught in a murder twist.
+73,Bhootnath,"Comedy, Fantasy",Vivek Sharma,"Amitabh Bachchan, Juhi Chawla",2008,A friendly ghost befriends a lonely child.
+74,Lagaan,"Sports, Drama",Ashutosh Gowariker,"Aamir Khan, Gracy Singh",2001,Villagers challenge British to a cricket match.
+75,My Name Is Khan,"Drama, Romance",Karan Johar,"Shah Rukh Khan, Kajol",2010,A man with autism embarks on a journey across America.
+76,Munna Bhai M.B.B.S,"Comedy, Drama",Rajkumar Hirani,"Sanjay Dutt, Arshad Warsi",2003,A gangster pretends to be a medical student.
+77,Swades,"Drama, Social",Ashutosh Gowariker,"Shah Rukh Khan, Gayatri Joshi",2004,An NRI returns to develop his village.
+78,Om Shanti Om,"Romance, Drama",Farah Khan,"Shah Rukh Khan, Deepika Padukone",2007,A reincarnation revenge drama in Bollywood.
+79,Padmaavat,"Historical, Drama",Sanjay Leela Bhansali,"Deepika Padukone, Ranveer Singh",2018,A queen defends her honor against a brutal invader.
+80,Bajirao Mastani,"Historical, Romance",Sanjay Leela Bhansali,"Ranveer Singh, Deepika Padukone",2015,A Maratha general’s love story with a Muslim princess.
+81,K.G.F: Chapter 1,"Action, Drama",Prashanth Neel,"Yash, Srinidhi Shetty",2018,A poor boy rises to power in the gold mines of Kolar.
+82,K.G.F: Chapter 2,"Action, Thriller",Prashanth Neel,"Yash, Sanjay Dutt",2022,Rocky faces new enemies to retain his empire.
+83,Kantara,"Action, Drama",Rishab Shetty,"Rishab Shetty, Sapthami Gowda",2022,"A conflict between man, nature, and tradition unfolds."
+84,Ugramm,"Action, Thriller",Prashanth Neel,"Sriimurali, Haripriya",2014,A man with a dark past returns to his violent roots.
+85,Lucia,"Psychological, Thriller",Pawan Kumar,"Sathish Ninasam, Sruthi Hariharan",2013,A man consumes pills that blur dreams and reality.
+86,Godhi Banna Sadharana Mykattu,Drama,Hemanth Rao,"Rakshit Shetty, Anant Nag",2016,A son searches for his Alzheimer’s-affected father.
+87,Ulidavaru Kandanthe,"Crime, Drama",Rakshit Shetty,"Rakshit Shetty, Kishore",2014,A crime is explored through multiple viewpoints.
+88,Charlie 777,"Drama, Adventure",Kiranraj K,"Rakshit Shetty, Sangeetha Sringeri",2022,A man’s life changes after meeting a stray dog.
+89,Avane Srimannarayana,"Action, Fantasy",Sachin Ravi,"Rakshit Shetty, Shanvi Srivastava",2019,A cop investigates a hidden treasure in a mythical land.
+90,Sarkari Hi. Pra. Shaale,"Drama, Family",Rishab Shetty,"Anant Nag, Ramesh Bhat",2018,A rural school fights for its survival.
+91,Bell Bottom,"Comedy, Crime",Jayatheertha,"Rishab Shetty, Hariprriya",2019,A detective in the 1980s solves quirky cases.
+92,Tagaru,"Action, Thriller",Duniya Soori,"Shiva Rajkumar, Bhavana",2018,A cop fights a ruthless gangster empire.
+93,Bhajarangi,"Action, Fantasy",Harsha,"Shiva Rajkumar, Aindrita Ray",2013,A man uncovers the supernatural truth about his lineage.
+94,Bhajarangi 2,"Action, Thriller",Harsha,"Shiva Rajkumar, Bhavana",2021,A herbal warrior battles an evil drug mafia.
+95,Yuvarathnaa,"Action, Drama",Santhosh Ananddram,"Puneeth Rajkumar, Sayyeshaa",2021,A student fights for educational reform.
+96,James,"Action, Thriller",Chethan Kumar,"Puneeth Rajkumar, Priya Anand",2022,A soldier is caught in a crime syndicate's web.
+97,Raajakumara,"Drama, Family",Santhosh Ananddram,"Puneeth Rajkumar, Priya Anand",2017,An adopted son discovers his roots and fights injustice.
+98,Milana,"Romance, Drama",Prakash,"Puneeth Rajkumar, Parvathi",2007,A newly married couple discover love after heartbreak.
+99,RangiTaranga,"Thriller, Mystery",Anup Bhandari,"Nirup Bhandari, Radhika Chetan",2015,A novelist uncovers a haunting village mystery.
+100,Belli,"Action, Drama",Mussanje Mahesh,"Shiva Rajkumar, Kriti Kharbanda",2014,A criminal seeks redemption through love.
+101,Shravani Subramanya,"Romance, Comedy",Manju Swaraj,"Ganesh, Amulya",2013,A musician and a runaway girl pretend to be married.
+102,Gaalipata,"Romance, Comedy",Yogaraj Bhat,"Ganesh, Diganth",2008,Three friends visit a village and find love.
+103,Mugulu Nage,"Romance, Drama",Yogaraj Bhat,"Ganesh, Apoorva Arora",2017,A cheerful man struggles with failed relationships.
+104,Operation Alamelamma,"Comedy, Thriller",Suni,"Rishi, Shraddha Srinath",2017,A quirky guy is framed in a kidnapping case.
+105,Dia,"Romance, Drama",K. S. Ashoka,"Pruthvi Ambaar, Kushee Ravi",2020,A shy girl’s love story takes unexpected turns.
+106,Love Mocktail,"Romance, Drama",Darling Krishna,"Krishna, Milana Nagaraj",2020,A man recalls his past love stories.
+107,Love Mocktail 2,"Romance, Drama",Darling Krishna,"Krishna, Rachel David",2022,The story continues as he seeks love again.
+108,Simple Agi Ondh Love Story,"Romance, Comedy",Suni,"Rakshit Shetty, Shwetha Srivatsav",2013,A fun love story with a twist of identities.
+109,Rama Rama Re...,"Crime, Drama",D Satya Prakash,"Nataraj, Dharmanna Kadur",2016,A convict and strangers take a philosophical journey.
+110,Ondu Motteya Kathe,"Drama, Comedy",Raj B. Shetty,"Raj B. Shetty, Usha Bhandary",2017,A bald teacher searches for a bride.
+111,Vikram,"Action, Thriller",Lokesh Kanagaraj,"Kamal Haasan, Vijay Sethupathi",2022,A former agent returns to stop a deadly drug mafia.
+112,Master,"Action, Drama",Lokesh Kanagaraj,"Vijay, Vijay Sethupathi",2021,A professor battles a gangster in a juvenile center.
+113,Thunivu,"Action, Thriller",H. Vinoth,"Ajith Kumar, Manju Warrier",2023,A mysterious man holds a bank hostage with a mission.
+114,Ponniyin Selvan: I,"Historical, Drama",Mani Ratnam,"Vikram, Aishwarya Rai Bachchan",2022,A Chola prince faces rebellion and political betrayal.
+115,Ponniyin Selvan: II,"Historical, Drama",Mani Ratnam,"Karthi, Trisha, Jayam Ravi",2023,The final phase of the Chola empire’s political drama.
+116,Soorarai Pottru,"Drama, Biography",Sudha Kongara,"Suriya, Aparna Balamurali",2020,A man struggles to launch a low-cost airline.
+117,Jai Bhim,"Drama, Legal",T. J. Gnanavel,"Suriya, Lijomol Jose",2021,A lawyer fights for justice for tribal people.
+118,96,"Romance, Drama",C. Prem Kumar,"Vijay Sethupathi, Trisha",2018,Two high school lovers meet at a reunion years later.
+119,Vaaranam Aayiram,"Drama, Romance",Gautham Menon,"Suriya, Simran",2008,A son recalls life lessons from his late father.
+120,Vettaiyaadu Vilaiyaadu,"Crime, Thriller",Gautham Menon,"Kamal Haasan, Jyothika",2006,A cop tracks a serial killer across continents.
+121,Dasavathaaram,"Sci-Fi, Thriller",K. S. Ravikumar,"Kamal Haasan (10 roles), Asin",2008,A scientist battles a virus threat and fate itself.
+122,Enthiran,"Sci-Fi, Action",S. Shankar,"Rajinikanth, Aishwarya Rai",2010,A humanoid robot develops human emotions.
+123,2,"Sci-Fi, Action",S. Shankar,"Rajinikanth, Akshay Kumar",2018,A scientist reboots a robot to fight a bird-themed villain.
+124,Anniyan,"Psychological, Action",S. Shankar,"Vikram, Sadha",2005,A man with split personality fights corruption.
+125,Thuppakki,"Action, Thriller",A. R. Murugadoss,"Vijay, Kajal Aggarwal",2012,An army officer uncovers a sleeper cell in Mumbai.
+126,Kaththi,"Action, Drama",A. R. Murugadoss,"Vijay, Samantha",2014,A thief fights for farmers using his look-alike's identity.
+127,Bigil,"Sports, Drama",Atlee Kumar,"Vijay, Nayanthara",2019,A former footballer trains a women’s team.
+128,Mersal,"Action, Thriller",Atlee Kumar,"Vijay (triple role), Kajal Aggarwal",2017,A magician fights corruption in the medical field.
+129,Visaranai,"Crime, Thriller",Vetrimaaran,"Dinesh, Samuthirakani",2015,Innocent men are tortured by corrupt police.
+130,Asuran,"Action, Drama",Vetrimaaran,"Dhanush, Manju Warrier",2019,A farmer protects his son from caste violence.
+131,Karnan,"Drama, Action",Mari Selvaraj,"Dhanush, Lal",2021,A villager stands up to caste oppression.
+132,Pariyerum Perumal,"Drama, Social",Mari Selvaraj,"Kathir, Anandhi",2018,A law student faces caste discrimination and prejudice.
+133,Pizza,"Horror, Thriller",Karthik Subbaraj,"Vijay Sethupathi, Remya Nambeesan",2012,A pizza delivery boy gets trapped in a haunted house.
+134,Jigarthanda,"Action, Comedy",Karthik Subbaraj,"Siddharth, Bobby Simha",2014,A filmmaker tries to make a gangster film with a real don.
+135,Naduvula Konjam Pakkatha Kaanom,Comedy,Balaji Tharaneetharan,Vijay Sethupathi,2012,A man forgets everything before his wedding.
+136,Iraivi,"Drama, Social",Karthik Subbaraj,"S. J. Surya, Vijay Sethupathi",2016,The lives of three women affected by their husbands.
+137,Kaithi,"Action, Thriller",Lokesh Kanagaraj,"Karthi, Narain",2019,An ex-convict helps the police in exchange for his daughter.
+138,Maanaadu,"Sci-Fi, Action",Venkat Prabhu,"Silambarasan, S. J. Surya",2021,A man stuck in a time loop prevents a political killing.
+139,Taanakkaran,"Drama, Action",Tamizh,"Vikram Prabhu, Anjali Nair",2022,Police trainees suffer brutal treatment in academy.
+140,Thiruchitrambalam,"Romance, Comedy",Mithran Jawahar,"Dhanush, Nithya Menen",2022,"A delivery guy balances love, family, and life."
+141,Baahubali: The Beginning,"Action, Fantasy",S. S. Rajamouli,"Prabhas, Rana Daggubati",2015,A warrior learns about his royal legacy and a lost kingdom.
+142,Baahubali: The Conclusion,"Action, Fantasy",S. S. Rajamouli,"Prabhas, Anushka Shetty",2017,Mahendra Baahubali rises to reclaim his father's kingdom.
+143,RRR,"Action, Drama",S. S. Rajamouli,"Ram Charan, Jr. NTR",2022,Two revolutionaries fight against British colonial rule.
+144,Arjun Reddy,"Romance, Drama",Sandeep Reddy Vanga,"Vijay Deverakonda, Shalini Pandey",2017,A brilliant but self-destructive surgeon faces heartbreak.
+145,Pushpa: The Rise,"Action, Crime",Sukumar,"Allu Arjun, Rashmika Mandanna",2021,A red sandalwood smuggler rises in the criminal world.
+146,Ala Vaikunthapurramuloo,"Action, Comedy",Trivikram Srinivas,"Allu Arjun, Pooja Hegde",2020,A man discovers he was switched at birth with a billionaire.
+147,Sarkaru Vaari Paata,"Action, Drama",Parasuram,"Mahesh Babu, Keerthy Suresh",2022,A loan recovery agent takes on a corrupt politician.
+148,Maharshi,"Drama, Action",Vamshi Paidipally,"Mahesh Babu, Pooja Hegde",2019,A successful CEO returns to India to bring change.
+149,Bharat Ane Nenu,"Political, Drama",Koratala Siva,"Mahesh Babu, Kiara Advani",2018,A young man becomes CM to reform the system.
+150,Srimanthudu,"Drama, Action",Koratala Siva,"Mahesh Babu, Shruti Haasan",2015,A millionaire adopts a village and fights for change.
+151,Geetha Govindam,"Romance, Drama",Parasuram,"Vijay Deverakonda, Rashmika Mandanna",2018,A shy man tries to impress a girl he accidentally insults.
+152,Dear Comrade,"Romance, Action",Bharat Kamma,"Vijay Deverakonda, Rashmika Mandanna",2019,A student leader supports a woman cricketer’s dreams.
+153,Jersey,"Drama, Sports",Gowtam Tinnanuri,"Nani, Shraddha Srinath",2019,A failed cricketer tries to return to the sport for his son.
+154,Shyam Singha Roy,"Drama, Fantasy",Rahul Sankrityan,"Nani, Sai Pallavi",2021,A filmmaker’s past life causes controversy.
+155,Eega,"Fantasy, Action",S. S. Rajamouli,"Nani, Sudeep",2012,A man is reincarnated as a fly to take revenge.
+156,Sita Ramam,"Romance, Drama",Hanu Raghavapudi,"Dulquer Salmaan, Mrunal Thakur",2022,A soldier’s love letter changes lives decades later.
+157,Mahanati,"Biography, Drama",Nag Ashwin,"Keerthy Suresh, Dulquer Salmaan",2018,The rise and fall of legendary actress Savitri.
+158,Yevade Subramanyam,"Drama, Adventure",Nag Ashwin,"Nani, Malavika Nair",2015,A corporate man goes on a soul-searching Himalayan trip.
+159,HIT: The First Case,"Thriller, Mystery",Sailesh Kolanu,"Vishwak Sen, Ruhani Sharma",2020,A cop with PTSD investigates a missing person’s case.
+160,HIT: The Second Case,"Thriller, Crime",Sailesh Kolanu,"Adivi Sesh, Meenakshi Chaudhary",2022,A serial killer case shakes the Homicide Intervention Team.
+161,Goodachari,"Spy, Action",Sashi Kiran Tikka,"Adivi Sesh, Sobhita Dhulipala",2018,A RAW agent uncovers secrets about his father’s death.
+162,Major,"Biopic, Action",Sashi Kiran Tikka,"Adivi Sesh, Saiee Manjrekar",2022,Based on the life of Major Sandeep Unnikrishnan.
+163,Bheeshma,"Comedy, Romance",Venky Kudumula,"Nithiin, Rashmika Mandanna",2020,A young man becomes CEO of an organic company.
+164,Brochevarevarura,"Crime, Comedy",Vivek Athreya,"Sree Vishnu, Nivetha Thomas",2019,Three students kidnap a girl and get into trouble.
+165,Agent Sai Srinivasa Athreya,"Mystery, Comedy",Swaroop RSJ,"Naveen Polishetty, Shruti Sharma",2019,A small-town detective investigates a big conspiracy.
+166,Jathi Ratnalu,"Comedy, Drama",Anudeep KV,"Naveen Polishetty, Priyadarshi",2021,Three friends get into political trouble unknowingly.
+167,Rangasthalam,"Action, Drama",Sukumar,"Ram Charan, Samantha",2018,A partially deaf man fights injustice in a village.
+168,Uppena,"Romance, Drama",Buchi Babu Sana,"Panja Vaisshnav Tej, Krithi Shetty",2021,A fisherman falls in love with an upper-caste girl.
+169,Balagam,"Drama, Family",Venu Yeldandi,"Priyadarshi, Kavya Kalyanram",2023,A man’s family reconnects after a death in the village.
+170,Virata Parvam,"Romance, Action",Venu Udugula,"Rana Daggubati, Sai Pallavi",2022,A woman joins a revolutionary group to follow her hero.
